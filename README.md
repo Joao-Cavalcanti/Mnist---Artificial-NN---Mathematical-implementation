@@ -11,3 +11,5 @@ Intruções:
 Coloque a pasta "train" e a pasta "test" como baixadas do repositório no mesmo diretório que o script
 
 
+O Arquivo "NN.csv" é um exemplo de um modelo gerado após o treino nesse data set
+
